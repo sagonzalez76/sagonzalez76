@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+
+  <h2>### Hi there 👋</h2>
+</div>
+
 <div align="center">
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -17,7 +21,7 @@ I am Sory Gonzalez, a Full Stack Developer <img src="https://media.giphy.com/med
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
@@ -37,12 +41,14 @@ I am Sory Gonzalez, a Full Stack Developer <img src="https://media.giphy.com/med
 
 
 ---
-
+<div align="center" width="100%">
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagonzalez76&theme=dark&hide_border=true&card_width=508)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagonzalez76&theme=dark&hide_border=true&card_width=508)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagonzalez76&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 
 <!--
