@@ -73,10 +73,10 @@ I am a passionate developer from Colombia 🇨🇴, specializing in building rob
 ### 🔥 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/sagonzalez76">
-    <img src="https://github-readme-stats.vercel.app/api?username=sagonzalez76&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/sagonzalez76">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagonzalez76&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagonzalez76&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/sagonzalez76)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagonzalez76&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/sagonzalez76)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagonzalez76&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/sagonzalez76)
+
 </div>
